@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+
+div {
+    margin-top: 50px;
+    text-align: center;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p {
+ font-size: 15em;
+}
+
+button {
+    width: 50%;
+    height: 300px;
+    font-size: 18em;
+    color: grey;
+    border-radius: 25px;
+    border-width: 5px solid black;
+}
